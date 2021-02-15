@@ -179,3 +179,15 @@ body {
         left: 0;
         background-color: #fffbf7;
       }
+      .features {
+        display: grid;
+        background-color: #025157;
+        Height: 600px;
+        grid-template: repeat(2, 1fr) / repeat(2,1fr);
+        padding: 5% 10%;
+      }
+      .feature-card {
+        background-color: #ffffff;
+        border-radius: 7px;
+        margin: 15px;
+      }
