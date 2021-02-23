@@ -1,0 +1,20 @@
+// colores
+
+$dark-green-title: #025157;
+$dark-green-text: #135359;
+$white: #ffffff;
+$gris: #4a4a4a;
+$gris-claro: #979797;
+$verde-claro: #67b54b;
+
+// fuentes
+
+$font-title: "alegreya", serif;
+
+// placeholders 
+
+%base-title {
+    font-family: $font-title;
+    color: $dark-green-title;
+    font-weight:800;
+}
